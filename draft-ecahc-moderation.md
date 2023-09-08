@@ -305,5 +305,6 @@ This document has no IANA actions.
 These individuals suggested improvements to this document:
 
 - Jay Daley
+- Rich Salz
 
 --- back
