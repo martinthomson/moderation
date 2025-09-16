@@ -6,8 +6,8 @@ Network Working Group                                     L. Eggert, Ed.
 Internet-Draft                                                   Mozilla
 Obsoletes: 3683, 3934 (if approved)                         E. Lear, Ed.
 Updates: 2418, 9245 (if approved)                          Cisco Systems
-Intended status: Best Current Practice                 15 September 2025
-Expires: 19 March 2026
+Intended status: Best Current Practice                 16 September 2025
+Expires: 20 March 2026
 
 
                        IETF Community Moderation
@@ -58,7 +58,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 19 March 2026.
+   This Internet-Draft will expire on 20 March 2026.
 
 Copyright Notice
 
@@ -312,11 +312,11 @@ Table of Contents
       disruptive behavior in a timely fashion, apprising moderators of
       reports or actions taken.
 
-      For a Working Group, the chairs are assumed to be adminstrators,
-      though others might be assigned the role in addition to or instead
-      of chairs with the assent of the responsible area director.
-      Working Group fora administrators should perform moderation in a
-      way that obviates the need for moderator team involvement.
+   For a working group, chairs are by default the administrators.  They
+   may delegate this responsibility, but they must always accept,
+   acknowledge, and keep track of complaints of disruptive behavior.
+   Forum administrators should perform moderation in a way that obviates
+   the need for moderator team involvement.
 
    *  *Moderators* are responsible for establishing processes to address
       moderation needs across all IETF fora, both present and future.
